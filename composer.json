@@ -1,5 +1,5 @@
 {
-    "name": "rappasoft/laravel-livewire-tables",
+    "name": "akramzerarka/laravel-livewire-tables",
     "description": "A dynamic table component for Laravel Livewire",
     "keywords": [
         "rappasoft",
@@ -8,19 +8,24 @@
         "tables",
         "laravel"
     ],
-    "homepage": "https://github.com/rappasoft/laravel-livewire-tables",
+    "homepage": "https://github.com/AkramZerarka/laravel-livewire-tables.git",
     "license": "MIT",
     "authors": [
         {
             "name": "Anthony Rappa",
             "email": "rappa819@gmail.com",
             "role": "Developer"
+        },
+        {
+            "name": "Akram Zerarka",
+            "email": "akram.zerarka@gmail.com",
+            "role": "Developer"
         }
     ],
     "require": {
         "php": "^7.4|^8.0|^8.1|^8.2",
         "illuminate/contracts": "^8.0|^9.0|^10.0",
-        "livewire/livewire": "^2.6",
+        "livewire/livewire": "^2.6|^3.0",
         "spatie/laravel-package-tools": "^1.4.3"
     },
     "require-dev": {
